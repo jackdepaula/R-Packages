@@ -32,7 +32,7 @@ R Packages
 <td>There are a number of useful functions in here. Two of my favorites: describe, a more robust summary function, and Cs, which creates a vector of quoted character strings from unquoted comma-separated text. Cs(so, it, goes) creates c(&quot;so&quot;, &quot;it&quot;, &quot;goes&quot;). CRAN.</td>
 <td>describe(mydf) Cs(so, it, goes)</td>
 </tr>
-<tr class="odd">
+<tr class="odd"> 
 <td>diffobj</td>
 <td>data analysis</td>
 <td>Base R's identical() function tells you whether or not two objects are the same; but if they're not, it won't tell you why. diffobj gives you a visual representation of how two R objects differ. CRAN.</td>
